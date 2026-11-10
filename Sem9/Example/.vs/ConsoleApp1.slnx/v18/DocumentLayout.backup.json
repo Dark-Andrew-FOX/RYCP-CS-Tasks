@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\RYCP-CS-Tasks\\Sem9\\Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABD3DBC-9E23-B4B4-21CC-748B25DD32A5}|ConsoleApp1\\HarderProgram.csproj|c:\\github\\rycp-cs-tasks\\sem9\\example\\consoleapp1\\harderprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABD3DBC-9E23-B4B4-21CC-748B25DD32A5}|ConsoleApp1\\HarderProgram.csproj|solutionrelative:consoleapp1\\harderprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABD3DBC-9E23-B4B4-21CC-748B25DD32A5}|ConsoleApp1\\HarderProgram.csproj|c:\\github\\rycp-cs-tasks\\sem9\\example\\consoleapp1\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABD3DBC-9E23-B4B4-21CC-748B25DD32A5}|ConsoleApp1\\HarderProgram.csproj|solutionrelative:consoleapp1\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\GitHub\\RYCP-CS-Tasks\\Sem9\\Example\\ConsoleApp1\\Classes.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes.cs",
+              "ToolTip": "C:\\GitHub\\RYCP-CS-Tasks\\Sem9\\Example\\ConsoleApp1\\Classes.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:18:27.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HarderProgram.cs",
+              "DocumentMoniker": "C:\\GitHub\\RYCP-CS-Tasks\\Sem9\\Example\\ConsoleApp1\\HarderProgram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\HarderProgram.cs",
+              "ToolTip": "C:\\GitHub\\RYCP-CS-Tasks\\Sem9\\Example\\ConsoleApp1\\HarderProgram.cs",
+              "RelativeToolTip": "ConsoleApp1\\HarderProgram.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T21:45:23.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
