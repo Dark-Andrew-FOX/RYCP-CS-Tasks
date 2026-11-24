@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\GitHub\\RYCP-CS-Tasks\\Sem11\\Seminar_11\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3642A-1D28-5766-BBE6-046D063C62FF}|independent_work\\independent_work.csproj|c:\\github\\rycp-cs-tasks\\sem11\\seminar_11\\independent_work\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3642A-1D28-5766-BBE6-046D063C62FF}|independent_work\\independent_work.csproj|solutionrelative:independent_work\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\GitHub\\RYCP-CS-Tasks\\Sem11\\Seminar_11\\independent_work\\Monster.cs",
+              "RelativeDocumentMoniker": "independent_work\\Monster.cs",
+              "ToolTip": "C:\\GitHub\\RYCP-CS-Tasks\\Sem11\\Seminar_11\\independent_work\\Monster.cs",
+              "RelativeToolTip": "independent_work\\Monster.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:34:06.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
